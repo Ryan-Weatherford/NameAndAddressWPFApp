@@ -1,0 +1,9 @@
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\bin\Debug\netcoreapp3.1\NameAndAddressLibrary.deps.json
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\bin\Debug\netcoreapp3.1\NameAndAddressLibrary.dll
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\bin\Debug\netcoreapp3.1\NameAndAddressLibrary.pdb
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\obj\Debug\netcoreapp3.1\NameAndAddressLibrary.csprojAssemblyReference.cache
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\obj\Debug\netcoreapp3.1\NameAndAddressLibrary.AssemblyInfoInputs.cache
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\obj\Debug\netcoreapp3.1\NameAndAddressLibrary.AssemblyInfo.cs
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\obj\Debug\netcoreapp3.1\NameAndAddressLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\obj\Debug\netcoreapp3.1\NameAndAddressLibrary.dll
+C:\Users\ryanw\source\repos\NameAndAddressApp\NameAndAddressLibrary\obj\Debug\netcoreapp3.1\NameAndAddressLibrary.pdb
